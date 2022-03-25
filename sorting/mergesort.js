@@ -56,7 +56,7 @@ function mergeSort(arr){
     console.log('AFTER MERGE')
     console.log(mergedArr)
 
-    return mergedArr.map(num => num*num)
+    return mergedArr
 
 }
 

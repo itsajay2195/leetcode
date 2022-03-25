@@ -16,4 +16,4 @@ function permute(arr, permutation = [],answers = []){
     return answers;
 }
 
-console.log(permute([1,2,3]))
+console.log(permute(["walk the dog","clean the toilet","go to office"]))
